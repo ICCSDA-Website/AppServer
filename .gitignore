@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+target/
+=======
 /target/
+>>>>>>> e298e13952ce8ba9304dcf6429cd50e3a3273028
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -18,4 +22,8 @@ buildNumber.properties
 *.ear
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+<<<<<<< HEAD
 hs_err_pid*
+=======
+hs_err_pid*
+>>>>>>> e298e13952ce8ba9304dcf6429cd50e3a3273028
